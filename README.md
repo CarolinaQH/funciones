@@ -1,2 +1,3 @@
 # funciones
-profe, no me sale poner el fondo verde :( 
+# profe, no entiendo cómo poner el fondo verde :( 
+# No me toma el go live en github pages
