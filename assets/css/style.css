@@ -1,0 +1,23 @@
+body{
+    margin-top: 5rem;
+    text-align: center;
+    align-items: center;
+}
+
+#ele1 {
+    /* margin-top: 5rem; */
+    margin-left: 50rem;
+    border: solid 1px black;
+    height: 10rem;
+    width: 20rem;
+    margin-bottom: 100px;
+}
+
+#div1, #div2, #div3, #div4 {
+    width: 200px;
+    height: 200px;
+    border: solid 1px black;
+    display: inline-block;  
+    border-radius: 2rem; 
+
+}
